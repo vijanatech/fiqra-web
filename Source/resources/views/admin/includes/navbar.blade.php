@@ -25,8 +25,8 @@
                                     <i class="fa fa-info"></i>
                                 </div>
                                 <div class="dropdown-item-desc">
-                                   Rocket LMS Version 1.6
-                                   <div class="time text-primary">All rights reserved for Rocket Soft</div>
+                                   Fiqra Version 1.6
+                                   <div class="time text-primary">All rights reserved for Fiqra</div>
                                 </div>
                             </a>
                     </div>
